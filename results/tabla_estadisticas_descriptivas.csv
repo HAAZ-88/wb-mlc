@@ -1,0 +1,13 @@
+país,contexto,atributo_detectado,% grupo protegido,tasa ahorro total,tasa ahorro (protegido),tasa ahorro (no protegido)
+bol,saved_age,age_bin,40.14,63.66,72.32,57.86
+bol,saved_educlow,educ_low,73.07,63.66,59.59,74.72
+bol,saved_gender,female_bin,52.25,63.66,65.9,61.22
+col,saved_age,age_bin,37.7,41.6,48.54,37.4
+col,saved_educlow,educ_low,82.0,41.6,36.46,65.0
+col,saved_gender,female_bin,46.0,41.6,44.78,38.89
+ecu,saved_age,age_bin,40.1,45.1,57.61,36.73
+ecu,saved_educlow,educ_low,79.0,45.1,43.04,52.86
+ecu,saved_gender,female_bin,45.9,45.1,53.38,38.08
+per,saved_age,age_bin,33.5,35.8,48.36,29.47
+per,saved_educlow,educ_low,89.9,35.8,32.93,61.39
+per,saved_gender,female_bin,39.8,35.8,42.21,31.56
